@@ -25,11 +25,13 @@
  - [pandoc](https://pandoc.org/installing.html)
  - [ImageMagick](https://www.imagemagick.org/script/download.php)
  - [Audacity](https://www.audacityteam.org/download/windows/)
- - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) or [VisualSubSync](http://dl.visualsubsync.org/)
+ - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) (or [VisualSubSync](http://dl.visualsubsync.org/))
 
-### Collaboration and work
+### Collaboration
  - [AnyDesk](https://anydesk.com/download) (or [TeamViewer](https://www.teamviewer.com/en/))
  - [GitHub Desktop](https://desktop.github.com/)
+ - [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download),
+   [Bitvise SSH Server](https://www.bitvise.com/ssh-server-download)
 
 ### Redistributables and runtime support
  - Visual C++ Redistributable:
