@@ -3,14 +3,19 @@
 ### User experience
  - [Google Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/)
  - MPC-HC
- - Notepad2 installer with Explorer context-menu customisation: x86, x64
+ - Notepad2 installer with Explorer context-menu customisation:
+   [x86](Notepad2-x86.exe),
+   [x64](Notepad2-x64.exe)
  - [StrokesPlus](https://www.strokesplus.com/) (or the abandoned [StrokeIt](https://www.tcbmi.com/strokeit/downloads.shtml))
- - Custom keyboard layouts: Dvorak-QWERTY / Persian
+ - Custom keyboard layouts:
+   [Dvorak-QWERTY](kbddq_install_src.zip),
+   [Persian](kbdfa-hani_install.zip)
 
 ### File management
  - [7-Zip](https://www.7-zip.org/download.html)
- - [WinDirStat](https://windirstat.net/download.html), Explorer context-menu registry import file
- - Wget
+ - [WinDirStat](https://windirstat.net/download.html),
+   Explorer context-menu [registry import file](WinDirStat_ContextMenu.reg)
+ - [Wget](wget.exe)
  - [Hashtab](http://implbits.com/products/hashtab/)
  - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Download.php)
 
