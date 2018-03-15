@@ -2,7 +2,8 @@
 
 ### User experience
  - [Google Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/)
- - MPC-HC
+ - [MPC-HC](https://mpc-hc.org/downloads/),
+   Side-by-side 3D [Shader source code](mpc-hc_shaders.zip)
  - Notepad2 installer with Explorer context-menu customisation:
    [x86](Notepad2-x86.exe),
    [x64](Notepad2-x64.exe)
