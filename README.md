@@ -16,7 +16,8 @@
  - [7-Zip](https://www.7-zip.org/download.html)
  - [WinDirStat](https://windirstat.net/download.html),
    Explorer context-menu [registry file](WinDirStat_ContextMenu.reg)
- - [Wget](wget.zip)
+ - [Wget](wget.zip),
+   [youtube-dl](https://rg3.github.io/youtube-dl/download.html)
  - [Hashtab](http://implbits.com/products/hashtab/)
  - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Download.php)
 
