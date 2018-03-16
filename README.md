@@ -4,9 +4,9 @@
  - [Google Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/)
  - [MPC-HC](https://mpc-hc.org/downloads/),
    Side-by-side 3D [Shader source code](mpc-hc_shaders.zip)
- - Notepad2 installer with Explorer context-menu customisation:
-   [x86](Notepad2-x86.exe),
-   [x64](Notepad2-x64.exe)
+ - [Notepad2](https://xhmikosr.github.io/notepad2-mod/),
+   Explorer context-menu [registry file](Notepad2_ContextMenu.reg),
+   (or [Notepad++](https://notepad-plus-plus.org/download/))
  - [StrokesPlus](https://www.strokesplus.com/) (or the abandoned [StrokeIt](https://www.tcbmi.com/strokeit/downloads.shtml))
  - Custom keyboard layouts:
    [Dvorak-QWERTY](kbddq_install_src.zip),
@@ -15,8 +15,8 @@
 ### File management
  - [7-Zip](https://www.7-zip.org/download.html)
  - [WinDirStat](https://windirstat.net/download.html),
-   Explorer context-menu [registry import file](WinDirStat_ContextMenu.reg)
- - [Wget](wget.exe)
+   Explorer context-menu [registry file](WinDirStat_ContextMenu.reg)
+ - [Wget](wget.zip)
  - [Hashtab](http://implbits.com/products/hashtab/)
  - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Download.php)
 
