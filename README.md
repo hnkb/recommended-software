@@ -52,7 +52,9 @@
      [2013 Update 5](https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package),
      [2015 Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=52685).
      On 64-bit systems, install both versions (See [Autodesk Support site](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/How-to-remove-and-reinstall-Microsoft-Visual-C-Runtime-Libraries.html) for good information).
- - [.NET Framework](https://www.microsoft.com/net/download/Windows/run)
+ - [.NET Framework](https://www.microsoft.com/net/download/Windows/run),
+   enable .NET Framework 3.5 offline using Windows installation media:
+   `Dism /online /enable-feature /featurename:NetFx3 /All /Source:<drive>:\sources\sxs /LimitAccess`
  - [Java SE Runtime Environment](http://www.oracle.com/technetwork/java/javase/downloads/)
  - [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
  - [NVIDIA PhysX System Software](http://www.nvidia.com/object/physx-9.17.0524-driver.html) and
