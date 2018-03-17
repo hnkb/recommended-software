@@ -20,13 +20,14 @@
    [youtube-dl](https://rg3.github.io/youtube-dl/download.html)
  - [Hashtab](http://implbits.com/products/hashtab/)
  - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Download.php)
+ - [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
 
 ### Content creation
  - [paint.net](https://www.getpaint.net/download.html),
    [ImageMagick](https://www.imagemagick.org/script/download.php),
    [PNGGauntlet](https://pnggauntlet.com/)
  - [Inkscape](https://inkscape.org/download/)
- - [pandoc](https://pandoc.org/installing.html)
+ - [Typora](https://typora.io), [pandoc](https://pandoc.org/installing.html)
  - [Audacity](https://www.audacityteam.org/download/windows/),
    [mp3DirectCut](http://mpesch3.de1.cc/mp3dc.html),
    [Mp3tag](https://www.mp3tag.de/en/download.html)
