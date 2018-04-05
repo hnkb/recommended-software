@@ -8,6 +8,7 @@
    Explorer context-menu [registry file](Notepad2_ContextMenu.reg),
    (or [Notepad++](https://notepad-plus-plus.org/download/))
  - [StrokesPlus](https://www.strokesplus.com/) (or the abandoned [StrokeIt](https://www.tcbmi.com/strokeit/downloads.shtml))
+ - [Ditto](http://ditto-cp.sourceforge.net)
  - Custom keyboard layouts:
    [Dvorak-QWERTY](kbddq_install_src.zip),
    [Persian](kbdfa-hani_install.zip)
