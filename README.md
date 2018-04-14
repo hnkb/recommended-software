@@ -21,7 +21,7 @@
    [youtube-dl](https://rg3.github.io/youtube-dl/download.html)
  - [Hashtab](http://implbits.com/products/hashtab/)
  - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Download.php)
- - [DiffMerge](https://sourcegear.com/diffmerge/downloads.php)
+ - [DiffMerge](https://sourcegear.com/diffmerge/downloads.php), [dupeGuru](https://dupeguru.voltaicideas.net/)
 
 ### Content creation
  - [paint.net](https://www.getpaint.net/download.html),
