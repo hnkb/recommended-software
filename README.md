@@ -7,6 +7,7 @@
  - [Notepad2](https://xhmikosr.github.io/notepad2-mod/),
    Explorer context-menu [registry file](Notepad2_ContextMenu.reg),
    (or [Notepad++](https://notepad-plus-plus.org/download/))
+ - [LastPass](https://www.lastpass.com)
  - [StrokesPlus](https://www.strokesplus.com/) (or the abandoned [StrokeIt](https://www.tcbmi.com/strokeit/downloads.shtml))
  - [Ditto](http://ditto-cp.sourceforge.net)
  - Custom keyboard layouts:
