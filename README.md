@@ -53,7 +53,8 @@
                [x64](http://www.microsoft.com/download/en/details.aspx?id=13523)),
      [2012 Update 4](https://www.microsoft.com/en-us/download/details.aspx?id=30679),
      [2013 Update 5](https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package),
-     [2015 Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=52685).
+     2015/2017 ([x86](https://aka.ms/vs/15/release/VC_redist.x86.exe),
+                [x64](https://aka.ms/vs/15/release/VC_redist.x64.exe)).
      On 64-bit systems, install both versions (See [Autodesk Support site](https://knowledge.autodesk.com/search-result/caas/sfdcarticles/sfdcarticles/How-to-remove-and-reinstall-Microsoft-Visual-C-Runtime-Libraries.html) for good information).
  - [.NET Framework](https://www.microsoft.com/net/download/Windows/run),
    enable .NET Framework 3.5 offline using Windows installation media:
