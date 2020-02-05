@@ -12,7 +12,7 @@
  - [Ditto](http://ditto-cp.sourceforge.net)
  - Custom keyboard layouts:
    [Dvorak-QWERTY for Windows](kbddq_install_src.zip),
-   [Dvorak-QWERTY for Linux](https://github.com/ZeptByteS/dvorak-qwerty/tree/develop)
+   [Dvorak-QWERTY for Linux](https://github.com/ZeptByteS/dvorak-qwerty/tree/develop),
    [Persian](kbdfa-hani_install.zip)
 
 ### File management
