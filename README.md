@@ -11,7 +11,8 @@
  - [StrokesPlus](https://www.strokesplus.com/) (or the abandoned [StrokeIt](https://www.tcbmi.com/strokeit/downloads.shtml))
  - [Ditto](http://ditto-cp.sourceforge.net)
  - Custom keyboard layouts:
-   [Dvorak-QWERTY](kbddq_install_src.zip),
+   [Dvorak-QWERTY for Windows](kbddq_install_src.zip),
+   [Dvorak-QWERTY for Linux](https://github.com/ZeptByteS/dvorak-qwerty/tree/develop)
    [Persian](kbdfa-hani_install.zip)
 
 ### File management
